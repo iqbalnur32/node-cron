@@ -14,7 +14,7 @@ async function sendMail() {
     configMail = {
       service: 'gmail',
       auth: {
-        user: 'your gmail',
+        user: 'your usernama  gmail',
         pass: 'your password gmail'
       }
     };
